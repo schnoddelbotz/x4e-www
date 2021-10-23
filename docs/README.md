@@ -18,7 +18,11 @@ Cras molestie arcu at diam dignissim, eu cursus nunc vestibulum. Quisque malesua
 
 # CUMEX
 
-UNIX. Linux. Et cetera.
+UNIX. Linux. Et cetera. Oder meinten Sie vielleicht: **Ayọ**? Empfohlen vom [Pontifex](https://twitter.com/pontifex)!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RRJVWY-PiEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[UTF8](https://www.compart.com/en/unicode/U+1ECD#https://www.youtube.com/watch?v=eBpYgpF1bqQ)
 
 ## Lecture Notes
 
