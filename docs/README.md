@@ -1,4 +1,6 @@
-# Willkommen an Bord!
+![MadTV MS-DOS scene animated GIF](./img/madTV.gif)
+
+# Zweimal: Willkommen an Bord!
 
 *Don't feel bored! Take a towel with you. Always!* Visit first:
 
