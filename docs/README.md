@@ -1,3 +1,8 @@
+---
+title: x4E - Blogging Like a Hacker on .*arts.*
+image: /img/madTV.gif
+---
+
 ![MadTV MS-DOS scene animated GIF](./img/madTV.gif)
 
 # Grüezi und Willkommen an Bord!
