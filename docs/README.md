@@ -1,25 +1,25 @@
 # Willkommen an Bord!
 
-*Don't feel bored! Take a towel with you. Always!*
+*Don't feel bored! Take a towel with you. Always!* Visit first:
 
-Visit first:
+- 🎼 [schnoddelbotz on SoundCloud](https://soundcloud.com/schnoddelbotz) mit Korg Kronos und Küng Flöten etwa so:
 
-- 🎼 [schnoddelbotz on SoundCloud](https://soundcloud.com/schnoddelbotz)
-- 📰 [@DerAnzeiger on Twitter](https://twitter.com/DerAnzeiger)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1191715831&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/korg-da-funk-synth-garage-orientalische-sonate-helge-sauer-4" title="Korg Da Funk Synth Garage Orientalische Sonate Helge Sauer #4" target="_blank" style="color: #cccccc; text-decoration: none;">Korg Da Funk Synth Garage Orientalische Sonate Helge Sauer #4</a></div>
 
+- 📰 [@DerAnzeiger on Twitter](https://twitter.com/DerAnzeiger) - Alles von Teneriffa bzw. aus Konstanz. Jaja.
 - 📺 [schnoddelbotz on YouTube](https://www.youtube.com/channel/UCeh_alY3LWQQEUJ4PyqtE4g)
-- 📺 [schnoddelbotz on Vimeo](https://vimeo.com/schnoddelbotz)
 - 🐈‍⬛ [schnoddelbotz's LALA 🐈‍⬛ source Sauce on 🐙 GitHub](https://github.com/schnoddelbotz/lala-sauce)
+- 📺 [schnoddelbotz on Vimeo](https://vimeo.com/schnoddelbotz)
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/662009478?h=56383cf63b" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-Next, check:
+Stillhere? Then check:
 
 - 🏴‍☠️🦜 [Tim Pirata](https://twitter.com/TimPirata) (Did you know? Italian PIRATA means Hacker).
 - 🌐☮️ [REALI18N.ORG](https://twitter.com/JanHacker9) #REAL #I18N Efforts
 - 🗽🎼 [schnoddelbotz on Twitter](https://twitter.com/schnoddelbotz) The original 240k tweet account of Jan Arno Hacker; suspended by #SOMEONE.
 
-Finally:
+Finally!
 
 - 📸 [MontyPython](https://www.montypython.com/) - You must watch #FAWLTYTOWERS!
 - 🎮 [FBI](https://fbi.gov/) - Always worth a visit!
