@@ -22,6 +22,17 @@ Finally:
 - 📸 [MontyPython](https://www.montypython.com/) - You must watch #FAWLTYTOWERS!
 - 🎮 [FBI](https://fbi.gov/) - Always worth a visit!
 
+## Examples
+
+Eins.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EQUIPMENT RUNDOWN <a href="https://t.co/OZbQXxbvQV">https://t.co/OZbQXxbvQV</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a> <br><br>This, my dear <a href="https://twitter.com/marcrebillet?ref_src=twsrc%5Etfw">@marcrebillet</a> restored my faith in humanity when I saw it. Mankind should be thankful.<br><br>Here&#39;s mine from <a href="https://t.co/Si53xSQEbc">https://t.co/Si53xSQEbc</a><br><br>Usually <a href="https://twitter.com/hashtag/Garageband?src=hash&amp;ref_src=twsrc%5Etfw">#Garageband</a>. For more fuzz. I am considering a looper. Can u help me?🍓 <a href="https://t.co/9QqiVA9g9n">pic.twitter.com/9QqiVA9g9n</a></p>&mdash; Der𝘼𝙣𝙯𝙚𝙞𝙜𝙚𝙧 🇩🇪 Egoism 🇨🇭 ReINformation (@DerAnzeiger) <a href="https://twitter.com/DerAnzeiger/status/1479207586025160706?ref_src=twsrc%5Etfw">January 6, 2022</a></blockquote> 
+
+Zwei.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hey?src=hash&amp;ref_src=twsrc%5Etfw">#Hey</a> <a href="https://twitter.com/AdaPasternak?ref_src=twsrc%5Etfw">@AdaPasternak</a> 🍓🎠<a href="https://twitter.com/hashtag/Have?src=hash&amp;ref_src=twsrc%5Etfw">#Have</a> you heard ‘California Summer Games Korg Gurls Synth #2’ by <a href="https://twitter.com/schnoddelbotz?ref_src=twsrc%5Etfw">@schnoddelbotz</a> on <a href="https://twitter.com/hashtag/SoundCloud?src=hash&amp;ref_src=twsrc%5Etfw">#SoundCloud</a>? <a href="https://twitter.com/hashtag/np?src=hash&amp;ref_src=twsrc%5Etfw">#np</a> <a href="https://t.co/srUgU4KAWz">https://t.co/srUgU4KAWz</a> <br><br>You should if you liked <a href="https://twitter.com/hashtag/CaliforniaGames?src=hash&amp;ref_src=twsrc%5Etfw">#CaliforniaGames</a> or <a href="https://twitter.com/hashtag/SummerGames?src=hash&amp;ref_src=twsrc%5Etfw">#SummerGames</a> or <a href="https://twitter.com/hashtag/WinterGames?src=hash&amp;ref_src=twsrc%5Etfw">#WinterGames</a> on <a href="https://twitter.com/hashtag/C64?src=hash&amp;ref_src=twsrc%5Etfw">#C64</a>. Remember? I started surfin&#39; there <a href="https://twitter.com/JohnCleese?ref_src=twsrc%5Etfw">@JohnCleese</a>!</p>&mdash; schnoddelbotz 🇩🇪 Egoism 🇨🇭 ReINformation (@schnoddelbotz) <a href="https://twitter.com/DerAnzeiger/status/1479204358684299272?ref_src=twsrc%5Etfw">January 6, 2022</a></blockquote> 
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### LEGAL NOTE
 
