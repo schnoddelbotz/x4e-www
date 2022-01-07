@@ -1,6 +1,6 @@
 ![MadTV MS-DOS scene animated GIF](./img/madTV.gif)
 
-# Zweimal: Willkommen an Bord!
+# Grüezi und Willkommen an Bord!
 
 *Don't feel bored! Take a towel with you. Always!* Visit first:
 
@@ -10,8 +10,9 @@
 
 - 📰 [@DerAnzeiger on Twitter](https://twitter.com/DerAnzeiger) - Alles von Teneriffa bzw. aus Konstanz. Jaja.
 - 📺 [schnoddelbotz on YouTube](https://www.youtube.com/channel/UCeh_alY3LWQQEUJ4PyqtE4g)
-- 🐈‍⬛ [schnoddelbotz's LALA 🐈‍⬛ source Sauce on 🐙 GitHub](https://github.com/schnoddelbotz/lala-sauce)
-- 📺 [schnoddelbotz on Vimeo](https://vimeo.com/schnoddelbotz)
+- 📺 [schnoddelbotz's LALA 🐈‍⬛ Sauce FixFertig zum Beäugen etc.](https://schnoddelbotz.github.io/lala-sauce/)
+- 🐈‍⬛ [schnoddelbotz's LALA 🐈‍⬛ Sauce Source on 🐙 GitHub zum Basteln](https://github.com/schnoddelbotz/lala-sauce)
+- 📺 [schnoddelbotz on Vimeo zum #LIKEN](https://vimeo.com/schnoddelbotz)
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/662009478?h=56383cf63b" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
