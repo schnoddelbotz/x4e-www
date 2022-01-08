@@ -1,13 +1,14 @@
 # KREIML & SAMURAI feat. VOODOO JÜRGENS - 3 Nagetiere
 
-- Watch [KREIML & SAMURAI feat. VOODOO JÜRGENS - 3 Nagetiere on youtube](https://www.youtube.com/watch?v=MFBQsiI8Dds)
-- Read more about [KREIML & SAMURAI from Austria on DerStandard](https://www.derstandard.de/story/2000114780353/kreiml-samurai-und-das-phaenomen-des-dialektrap) - Austrian RAP!
+Watch [KREIML & SAMURAI feat. VOODOO JÜRGENS - 3 Nagetiere on youtube](https://www.youtube.com/watch?v=MFBQsiI8Dds)
+
+Read more about [KREIML & SAMURAI from Austria on DerStandard](https://www.derstandard.de/story/2000114780353/kreiml-samurai-und-das-phaenomen-des-dialektrap) - Austrian RAP!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFBQsiI8Dds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Drei Nagetiere Lyrics
 
-Ramses der König aus der 19. Dynastie
+[Ramses der König aus der 19. Dynastie](https://en.wikipedia.org/wiki/Ramesses_II)
 
 und Ramsine, die Meersau, mein allererstes Vieh.
 
