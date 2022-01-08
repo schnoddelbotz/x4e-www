@@ -100,7 +100,7 @@ Ref.
 
 Ich weiss noch ganz genau, net alles war paletti,
 
-Im Fernsehen nur der Rotz und des stressige [Confetti Tivi](https://www.youtube.com/watch?v=QfkRMrWkm0Y)
+Im Fernsehen nur der Rotz und des stressige [Confetti Tivi](https://www.youtube.com/watch?v=QfkRMrWkm0Y) (*Video above*)
 
 Ja und auf einmal kommt die Mama und sagt:
 
@@ -116,7 +116,7 @@ und die [Pemmerl](https://www.rindvieh.com/Derb-vulgaer/Hundstruemmerl) war'n am
 
 Löwenzahn pflücken und dann Fressi Fressi Fressi
 
-mein allerester Freund wir waren mehr als Happy Pepi,
+mein allerester Freund wir waren mehr als [Happy Pepi](https://www.youtube.com/watch?v=uqlU45zOW54) (*Video below*),
 
 Kein stinknormales Viech,
 
@@ -136,6 +136,8 @@ Ach Mekatzen-Langstrasse (?), Wien, bitte Rest In Peace
 
 Ref.
 Du warst mein allerester Freund, des vergiss I dir nie!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uqlU45zOW54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## REMARKS
