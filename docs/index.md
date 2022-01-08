@@ -44,6 +44,13 @@ Zwei.
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Lyrics
+
+Alles was auf [genius.com](https://genius.com) fehlt:
+
+- [KREIML & Samurai](https://www.derstandard.de/story/2000114780353/kreiml-samurai-und-das-phaenomen-des-dialektrap):
+  [Drei Nagetiere (Three Pets)](./lyrics/KREIML_Drei_Nagetiere.html)
+
 #### LEGAL NOTE
 
 **UNDER CONSTRUCTION - Bauherr: ---ZENSIERT🐙---**
