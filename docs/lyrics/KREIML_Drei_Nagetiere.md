@@ -147,6 +147,13 @@ Du warst mein allerester Freund, des vergiss I dir nie!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uqlU45zOW54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Conclusion - TL;DR - Too long; didn't read
+
+- Ois hot a end
+- Alles hat ein Ende
+- Every resource is limited #WorldLeaders vs #Capitalism vs #Future/#Kids/#Planet/0.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/14lQqDecueY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## REMARKS
 
