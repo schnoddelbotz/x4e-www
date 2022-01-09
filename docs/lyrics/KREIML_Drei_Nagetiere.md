@@ -155,6 +155,13 @@ Du warst mein allerester Freund, des vergiss I dir nie!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14lQqDecueY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Ende 2
+
+#WorldLeaders #Money #CUMEX #MoneyLaundry #Game #Loser
+#Law #Justice #Gerechtigkeit KOMMT. COMES. Logs, we have. #BOFH.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l0BjlaaTjes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## REMARKS
 
 I'd like to thank Manuel RADL from Klagenfurt for making me learn about this song in the first place - and this "Translation" ;)
