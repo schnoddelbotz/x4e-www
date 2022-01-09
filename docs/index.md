@@ -48,8 +48,10 @@ Zwei.
 
 Alles was auf [genius.com](https://genius.com) fehlt:
 
-- [KREIML & Samurai](https://www.derstandard.de/story/2000114780353/kreiml-samurai-und-das-phaenomen-des-dialektrap):
+- 🇦🇹 [KREIML & Samurai](https://www.derstandard.de/story/2000114780353/kreiml-samurai-und-das-phaenomen-des-dialektrap):
   [Drei Nagetiere (Three Pets)](./lyrics/KREIML_Drei_Nagetiere.html)
+
+- 🇫🇷 [Zaz / Edith Piaf](https://www.zazofficial.com/en): [Dans ma rue (In my street)](./lyrics/Edith_Piaf-Zaz-Dans_ma_rue.html)
 
 #### LEGAL NOTE
 
