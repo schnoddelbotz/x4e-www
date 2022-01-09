@@ -2,6 +2,14 @@
 
 Watch [KREIML & SAMURAI feat. VOODOO JÜRGENS - 3 Nagetiere on youtube](https://www.youtube.com/watch?v=MFBQsiI8Dds)
 
+> Samurai (bürgerlich Samora Bazarrabusa), auch Sam Oibel 1., ist ein Schweizer Rapper aus Zürich.
+
+[Wikipedia on Samurai ^](https://de.wikipedia.org/wiki/Samurai_(Rapper)). Read more on KREIML.
+
+You should know "Alles hat ein Ende nur die Wurst hat zwei" before reading on:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/582FrJaDMOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Read more about [KREIML & SAMURAI from Austria on DerStandard](https://www.derstandard.de/story/2000114780353/kreiml-samurai-und-das-phaenomen-des-dialektrap) - Austrian RAP!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFBQsiI8Dds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

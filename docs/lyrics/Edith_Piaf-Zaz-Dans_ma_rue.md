@@ -188,6 +188,7 @@ My nightmare is over
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SymNEfMac-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Senne by [ZÜRIWEST](https://zueriwest.ch/) is no exact translation, but also covers a street issue.
+Find [Senne (and all other #Züriwest) lyrics on hunold.ch](https://hunold.ch/zw/buempliz.html#senne).
 
 Feel free to sing this **swiss translation of Dans ma rue:**
 
