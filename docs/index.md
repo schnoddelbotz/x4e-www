@@ -32,7 +32,79 @@ Finally!
 - 📸 [MontyPython](https://www.montypython.com/) - You must watch #FAWLTYTOWERS!
 - 🎮 [FBI](https://fbi.gov/) - Always worth a visit!
 
-## Examples
+## TOP10
+
+#World #Charts #x4E CURATED. Focused. 
+
+#### GradeA Best Place Top 1
+
+Freakling good ver **ringelnatz** t Noisette Seven Grails Python Up **Ada** Go *HD 1080p*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GhYlDObudxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+👍 0 👎 0 ❤️‍🔥 0 🙉 0 🙈 0 ☮️ 0 🍓 0
+
+#### GradeB Best Place Top 2
+
+This was done by [TimPirata](https://twitter.com/TimPirata#OvoAndAdaRocks).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lsKS9bSAE5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+👍 0 👎 0 ❤️‍🔥 0 🙉 0 🙈 0 ☮️ 0 🍓 0
+
+#### GradeC Best Place Top 2
+
+#LeoDiCaprio #CAMEL #HASI Madhatter Dead Moon XM Cubic HD 720p #Nasa #Approval pending.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zaVE64A4FXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+👍 -3 👎 0 ❤️‍🔥 0 🙉 NaN 🙈 0 ☮️ 0 🍓 0
+
+#### GradeC Best Place Top 3
+
+Eigentlich sollte `Komm Doch Her - Wo - Ada Trio` ein Tribut an Sabine, Sabine, Sabine werden.
+Klar, und Ada. Ob sie's jemals hören wird?
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197784225&color=%234aa05e&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/komm-doch-her-wo-ada-trio" title="Komm Doch Her - Wo - Ada Trio" target="_blank" style="color: #cccccc; text-decoration: none;">Komm Doch Her - Wo - Ada Trio</a></div>
+
+
+**REFERENCES**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TTkA-uGcT_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+👍 999999999 👎 99 ❤️‍🔥 0 🙉 0 🙈 nil ☮️ 9001 🍓 1 PETA (see bottom of page)
+
+
+#### GradeD Good Place 1
+
+AUSZUG/Lesung Gute-Nacht-Geschichte Rapunzel - aus total tote Hose #Deutsch Claus/Kutschera GOLDMANN
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ccdczf8e_kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+👍 0 👎 -2 ❤️‍🔥 0 🙉 sqrt(5/0) 🙈 0 ☮️ 0 🍓 0
+
+#### GradeE Good Place 2
+
+Ihr #BUDGET ist SPÄRLICH, sie müssen SPAREN aber brauchen DRINGEND eine Hochzeits-DJ wie CRO?
+Beworben von Literal Lyrics. Link folgt bei Zeiten.
+
+`Positive Organ 2 Arturia Rings Ada Bello LAUT STEREO LOUD` ist quasi das was man bekommt,
+wenn man eine Ein-Mann-Band zur Hochzeitsparty bucht. Ich habe das so gelöst: Keine.
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197313945&color=%23332c29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/positive-organ-2-arturia-rings-ada-bello-laut-stereo-loud" title="Positive Organ 2 Arturia Rings Ada Bello LAUT STEREO LOUD" target="_blank" style="color: #cccccc; text-decoration: none;">Positive Organ 2 Arturia Rings Ada Bello LAUT STEREO LOUD</a></div>
+
+
+👍 0 👎 0 ❤️‍🔥 NULL 🙉 0 🙈 0 ☮️ `<?php` 0 🍓 0
+
+More on YouTube and SoundCloud. Try:
+
+```sql
+SELECT empno, name from EMPLOYEE WHERE name = 'SCOTT'
+```
+
+What `ORA-nnnn` error do you expect? We need the exact number and string (Locale: Italian, UTF-8, Monospaced, NASA, MIT, ETHernet, Ether, Äther, Ester, Semester - was esst' er, err, ihr?).
+
+## Four further noteworthy examples - Amazing Skills 
 
 Eins.
 
@@ -42,7 +114,11 @@ Zwei.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hey?src=hash&amp;ref_src=twsrc%5Etfw">#Hey</a> <a href="https://twitter.com/AdaPasternak?ref_src=twsrc%5Etfw">@AdaPasternak</a> 🍓🎠<a href="https://twitter.com/hashtag/Have?src=hash&amp;ref_src=twsrc%5Etfw">#Have</a> you heard ‘California Summer Games Korg Gurls Synth #2’ by <a href="https://twitter.com/schnoddelbotz?ref_src=twsrc%5Etfw">@schnoddelbotz</a> on <a href="https://twitter.com/hashtag/SoundCloud?src=hash&amp;ref_src=twsrc%5Etfw">#SoundCloud</a>? <a href="https://twitter.com/hashtag/np?src=hash&amp;ref_src=twsrc%5Etfw">#np</a> <a href="https://t.co/srUgU4KAWz">https://t.co/srUgU4KAWz</a> <br><br>You should if you liked <a href="https://twitter.com/hashtag/CaliforniaGames?src=hash&amp;ref_src=twsrc%5Etfw">#CaliforniaGames</a> or <a href="https://twitter.com/hashtag/SummerGames?src=hash&amp;ref_src=twsrc%5Etfw">#SummerGames</a> or <a href="https://twitter.com/hashtag/WinterGames?src=hash&amp;ref_src=twsrc%5Etfw">#WinterGames</a> on <a href="https://twitter.com/hashtag/C64?src=hash&amp;ref_src=twsrc%5Etfw">#C64</a>. Remember? I started surfin&#39; there <a href="https://twitter.com/JohnCleese?ref_src=twsrc%5Etfw">@JohnCleese</a>!</p>&mdash; schnoddelbotz 🇩🇪 Egoism 🇨🇭 ReINformation (@schnoddelbotz) <a href="https://twitter.com/DerAnzeiger/status/1479204358684299272?ref_src=twsrc%5Etfw">January 6, 2022</a></blockquote> 
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Spiele Ecke - Game Corner 
+
+Spy vs Spy C64. Suchen Sie auf YouTube: `LongPlay C64 SpyVsSpy`. #LMGTFY.
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1193449162&color=%23332c29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/undesired-spyvsspy-prequel-sql" title="Undesired SpyVsSpy prequel SQL NULL" target="_blank" style="color: #cccccc; text-decoration: none;">Undesired SpyVsSpy prequel SQL NULL</a></div>
 
 ## Lyrics
 
@@ -56,6 +132,13 @@ Alles was auf [genius.com](https://genius.com) fehlt:
 #### LEGAL NOTE
 
 **UNDER CONSTRUCTION - Bauherr: ---ZENSIERT🐙---**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yale events explore legacy of Martin Luther King Jr.’s quest for justice<a href="https://t.co/NrVDigYW2X">https://t.co/NrVDigYW2X</a></p>&mdash; Yale University (@Yale) <a href="https://twitter.com/Yale/status/1483113559609552901?ref_src=twsrc%5Etfw">January 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**CHECK THIS OUT!** [Yale im Internet https://law.yale.edu/](https://law.yale.edu/).
+
 
 ## CUMEX
 
@@ -78,3 +161,12 @@ Curabitur ut faucibus tellus, sit amet ullamcorper magna. Praesent blandit maxim
 Mauris congue magna ac ante tincidunt, quis aliquet arcu scelerisque. Integer tellus leo, aliquet vitae libero vel, tincidunt mattis eros. Donec interdum pharetra est, a posuere felis maximus eget. Phasellus volutpat mi vitae nisl congue, et commodo nulla mattis. Pellentesque tristique et urna nec facilisis. Etiam auctor rhoncus mauris at ultrices. Donec viverra semper sapien, eget dictum odio pellentesque a.
 
 Feed [https://www.lipsum.com/feed/html](https://www.lipsum.com/feed/html).
+
+# PETA PITA PIDE BITTE SCHAUT MAL WICHTIG DRINGEND KINDER
+
+Spiel, Spass, Spannung! Alles mit dabei in diesem kleinen Werbe-Ei.
+HAPPY HIPPOS, YAYYYYY! Schaut mal, was abgeht, krass!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xh7JeIKONFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+(c)opierbereit 2022. Danke PETER ^ [PETA](https://www.peta.org/international/).
