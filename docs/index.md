@@ -42,7 +42,7 @@ Freakling good ver **ringelnatz** t Noisette Seven Grails Python Up **Ada** Go *
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GhYlDObudxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-👍 0 👎 0 ❤️‍🔥 0 🙉 0 🙈 0 ☮️ 0 🍓 0
+👍 632.213 👎 0 ❤️‍🔥 78.042 🙉 0 🙈 -9 ☮️ 9001 🍓 255
 
 #### GradeB Best Place Top 2
 
@@ -50,7 +50,7 @@ This was done by [TimPirata](https://twitter.com/TimPirata#OvoAndAdaRocks).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lsKS9bSAE5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-👍 0 👎 0 ❤️‍🔥 0 🙉 0 🙈 0 ☮️ 0 🍓 0
+👍 0 👎 3 ❤️‍🔥 232 🙉 5 🙈 0 ☮️ 2 🍓 0
 
 #### GradeC Best Place Top 2
 
@@ -58,7 +58,7 @@ This was done by [TimPirata](https://twitter.com/TimPirata#OvoAndAdaRocks).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zaVE64A4FXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-👍 -3 👎 0 ❤️‍🔥 0 🙉 NaN 🙈 0 ☮️ 0 🍓 0
+👍 -3 👎 0 ❤️‍🔥 0 🙉 NaN 🙈 0 ☮️ 0 🍓 1
 
 #### GradeC Best Place Top 3
 
@@ -72,7 +72,7 @@ Klar, und Ada. Ob sie's jemals hören wird?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TTkA-uGcT_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-👍 999999999 👎 99 ❤️‍🔥 0 🙉 0 🙈 nil ☮️ 9001 🍓 1 PETA (see bottom of page)
+👍 999999999 👎 99 ❤️‍🔥 6 🙉 0 🙈 nil ☮️ 9001 🍓 1 PETA (see bottom of page)
 
 
 #### GradeD Good Place 1
