@@ -32,6 +32,11 @@ Finally!
 - 📸 [MontyPython](https://www.montypython.com/) - You must watch #FAWLTYTOWERS!
 - 🎮 [FBI](https://fbi.gov/) - Always worth a visit!
 
+To contact ME - #agent86 @schnoddelbotz or @JanHacker9 @x4e_ch [@kwikgo](https://kwikgo.net), please use good old phone +41 79 653 04 70 or [jan@hacker.ch](jan@hacker.ch). I read mail about once a week. Please be patient.
+I am always open for cool new things. Don't hesitate to reach out. Thanks & Peace.
+
+Made in Switzerland (Oerlikon).
+
 ## TOP10
 
 #World #Charts #x4E CURATED. Focused. 
@@ -51,6 +56,30 @@ This was done by [TimPirata](https://twitter.com/TimPirata#OvoAndAdaRocks).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lsKS9bSAE5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 👍 0 👎 3 ❤️‍🔥 232 🙉 5 🙈 0 ☮️ 2 🍓 0
+
+
+#### GradeA Best Place Top 2
+
+A Moment in Cape Town - On and on - #SlightlyPimped #HD @Africa
+
+This was live-recorded by [schnoddelbotz](https://twitter.com/JanHacker9) himself (!) using [OBS Open Broadcaster Software](https://obsproject.com/).
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CDHGDbpsiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+👍 4 👎 1 ❤️‍🔥 2 🙉 0 🙈 9 ☮️ 9000 🍓 1
+
+
+#### GradeA Best Place Top 2
+
+A Moment in Cape Town - Neo Muyanga : Nalete
+#SouthAfrica #Nalete #Neo - For [@africa](https://twitter.com/Africa) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BfhlJlg3188" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+👍 42 👎 0 ❤️‍🔥 9000 🙉 0 🙈 0 ☮️ 7 🍓 7
+
+
 
 #### GradeC Best Place Top 2
 
@@ -120,6 +149,17 @@ Spy vs Spy C64. Suchen Sie auf YouTube: `LongPlay C64 SpyVsSpy`. #LMGTFY.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1193449162&color=%23332c29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/undesired-spyvsspy-prequel-sql" title="Undesired SpyVsSpy prequel SQL NULL" target="_blank" style="color: #cccccc; text-decoration: none;">Undesired SpyVsSpy prequel SQL NULL</a></div>
 
+## Music without a video 
+
+
+[All by myself - Hold 5 Sec Reso Pad & Bright lead](https://soundcloud.com/schnoddelbotz/all-by-myself-hold-5-sec-reso-pad-bright-lead)
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1256091595&color=%23332c29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/all-by-myself-hold-5-sec-reso-pad-bright-lead" title="All by myself - Hold 5 Sec Reso Pad &amp; Bright lead" target="_blank" style="color: #cccccc; text-decoration: none;">All by myself - Hold 5 Sec Reso Pad &amp; Bright lead</a></div>
+
+[Korg M1 App Dreampad & Kronos & Moog Model 15 app](https://soundcloud.com/schnoddelbotz/korg-m1-app-dreampad-kronos-moog-model-15-app)
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1255538095&color=%23332c29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/korg-m1-app-dreampad-kronos-moog-model-15-app" title="Korg M1 App Dreampad &amp; Kronos &amp; Moog Model 15 app" target="_blank" style="color: #cccccc; text-decoration: none;">Korg M1 App Dreampad &amp; Kronos &amp; Moog Model 15 app</a></div>
+
 ## Lyrics
 
 Alles was auf [genius.com](https://genius.com) fehlt:
@@ -128,6 +168,18 @@ Alles was auf [genius.com](https://genius.com) fehlt:
   [Drei Nagetiere (Three Pets)](./lyrics/KREIML_Drei_Nagetiere.html)
 
 - 🇫🇷 [Zaz / Edith Piaf](https://www.zazofficial.com/en): [Dans ma rue (In my street)](./lyrics/Edith_Piaf-Zaz-Dans_ma_rue.html)
+
+## Hall of fame (personal selection, #WIP)
+
+I bought Joe Cocker - Mad dogs & Englishmen at #LERCHE #Königstrasse #Stuttgart.
+Joe Cocker - LIVE was my second CD I bought at all (after Elton John, Madman across the water).
+Accordingly, starting here:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Safe in the Arms of Time&quot; is out now! Pick up Your copy on CD or Double LP at Borders, Amazon or your favorite independent record store. <a href="https://t.co/sel1v9ETOz">https://t.co/sel1v9ETOz</a> <a href="https://t.co/rOPkgcaucC">pic.twitter.com/rOPkgcaucC</a></p>&mdash; Rita Coolidge (@deltaladyrc) <a href="https://twitter.com/deltaladyrc/status/992272885195554816?ref_src=twsrc%5Etfw">May 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you haven&#39;t had the chance to visit the all new <a href="https://t.co/imvXycJEnK">https://t.co/imvXycJEnK</a>, check it out to discover more about Leon&#39;s incredible life and legacy, listen to music, watch video, and sign up to the mailing list for news and updates on all that is in the works to celebrate Leon! <a href="https://t.co/ABgW7jKqRA">pic.twitter.com/ABgW7jKqRA</a></p>&mdash; Leon Russell (@LeonRussell) <a href="https://twitter.com/LeonRussell/status/1249792750188261376?ref_src=twsrc%5Etfw">April 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+More to come.
 
 #### LEGAL NOTE
 
@@ -177,6 +229,10 @@ Curabitur ut faucibus tellus, sit amet ullamcorper magna. Praesent blandit maxim
 Mauris congue magna ac ante tincidunt, quis aliquet arcu scelerisque. Integer tellus leo, aliquet vitae libero vel, tincidunt mattis eros. Donec interdum pharetra est, a posuere felis maximus eget. Phasellus volutpat mi vitae nisl congue, et commodo nulla mattis. Pellentesque tristique et urna nec facilisis. Etiam auctor rhoncus mauris at ultrices. Donec viverra semper sapien, eget dictum odio pellentesque a.
 
 Feed [https://www.lipsum.com/feed/html](https://www.lipsum.com/feed/html).
+
+# AH, BTW 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/THIS?src=hash&amp;ref_src=twsrc%5Etfw">#THIS</a> is no <a href="https://twitter.com/hashtag/BUG?src=hash&amp;ref_src=twsrc%5Etfw">#BUG</a> on <a href="https://twitter.com/hashtag/Vimeo?src=hash&amp;ref_src=twsrc%5Etfw">#Vimeo</a> but <a href="https://twitter.com/hashtag/ZEN?src=hash&amp;ref_src=twsrc%5Etfw">#ZEN</a> <a href="https://twitter.com/hashtag/SUR?src=hash&amp;ref_src=twsrc%5Etfw">#SUR</a> <a href="https://twitter.com/hashtag/CEN?src=hash&amp;ref_src=twsrc%5Etfw">#CEN</a> <a href="https://twitter.com/hashtag/SOR?src=hash&amp;ref_src=twsrc%5Etfw">#SOR</a> <a href="https://twitter.com/hashtag/SHIP?src=hash&amp;ref_src=twsrc%5Etfw">#SHIP</a> - They simply deleted my <a href="https://twitter.com/hashtag/VIDEOS?src=hash&amp;ref_src=twsrc%5Etfw">#VIDEOS</a>.<br><br>Still shown in &quot;My videos&quot; but the <a href="https://twitter.com/hashtag/JBO?src=hash&amp;ref_src=twsrc%5Etfw">#JBO</a> <a href="https://twitter.com/hashtag/Angie?src=hash&amp;ref_src=twsrc%5Etfw">#Angie</a> content was too much for <a href="https://twitter.com/hashtag/CDU?src=hash&amp;ref_src=twsrc%5Etfw">#CDU</a> - 1984 - <a href="https://twitter.com/hashtag/CancelCulture?src=hash&amp;ref_src=twsrc%5Etfw">#CancelCulture</a> - <a href="https://twitter.com/hashtag/CUMEX?src=hash&amp;ref_src=twsrc%5Etfw">#CUMEX</a> <a href="https://twitter.com/hashtag/Burying?src=hash&amp;ref_src=twsrc%5Etfw">#Burying</a> <a href="https://twitter.com/Vimeo?ref_src=twsrc%5Etfw">@Vimeo</a> - comments? <a href="https://twitter.com/IntlCrimCourt?ref_src=twsrc%5Etfw">@IntlCrimCourt</a> <a href="https://twitter.com/EFF?ref_src=twsrc%5Etfw">@eff</a> ? <a href="https://t.co/MY5589dkEG">pic.twitter.com/MY5589dkEG</a></p>&mdash; #I18N ORG 🌐🗺️🚀 REAL Internationalisation NG.ORG (@JanHacker9) <a href="https://twitter.com/JanHacker9/status/1518103330219827201?ref_src=twsrc%5Etfw">April 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # PETA PITA PIDE BITTE SCHAUT MAL WICHTIG DRINGEND KINDER
 
