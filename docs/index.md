@@ -37,6 +37,48 @@ I am always open for cool new things. Don't hesitate to reach out. Thanks & Peac
 
 Made in Switzerland (Oerlikon).
 
+# Introduction 
+
+How it all started:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhRsxtyn3Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What happened next?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kzKpQFAtGz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Then? Tja, [Hello World in Ada](https://craftofcoding.wordpress.com/2018/02/05/coding-ada-a-basic-hello-world/#:~:text=A%20basic%20program%20to%20spit,be%20accessed%20by%20the%20program.)
+
+```ada
+with Text_IO; use Text_IO;
+procedure hello is
+begin
+   Put_Line("Hello world!");
+end hello;
+```
+
+Did that help much? 
+
+Well. At the core - [adacore](adacore.com), in this lesson: An overview of the principles and objectives of the SPARK 2014 language.
+
+SPARK 2014 is a language based on Ada 2012, allowing for formal verification. This course will describe the language subset together with the tools and techniques allowing to formally defining properties and verifying their correctness.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3I24cIQn3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You see - Oh good lord! End of the story, you wonder? This.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nBkvuhSqIcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+No - it continued - total chaos - Absolutes -or: Heilloses!- Dürrenand in Swiss german, watch:
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1253210164&color=%23332c29&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/heilloses-duerrenand" title="Heilloses Dürrenand" target="_blank" style="color: #cccccc; text-decoration: none;">Heilloses Dürrenand</a></div>
+
+Ask Ada for Updates.
+
+# More to read, watch and listen to
+
+See below.
+
 ## TOP10
 
 #World #Charts #x4E CURATED. Focused. 
