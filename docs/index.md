@@ -7,6 +7,10 @@ image: /img/madTV.gif
 
 # Grüezi und Willkommen an Bord!
 
+Latest video! Langweilig ... Boring! Better see the others!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qcmUGl2uEGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *Don't feel bored! Take a towel with you. Always!* Visit first:
 
 - 🎼 [schnoddelbotz on SoundCloud](https://soundcloud.com/schnoddelbotz) mit Korg Kronos und Küng Flöten etwa so:
@@ -284,3 +288,5 @@ HAPPY HIPPOS, YAYYYYY! Schaut mal, was abgeht, krass!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xh7JeIKONFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (c)opierbereit 2022. Danke PETER ^ [PETA](https://www.peta.org/international/).
+
+![Hacker x4E logo](./img/x4e.png)
