@@ -5,15 +5,41 @@ image: /img/madTV.gif
 
 ![MadTV MS-DOS scene animated GIF](./img/madTV.gif)
 
-# Grüezi und Willkommen an Bord!
+# Grüezi und Willkommen an Bord! Free Julian Assange for Free Speech!
+
+**IMPORTANT** Most stuff on this page is fun or a supposed-to-be-funny approach to share IT, Music and stuff. FUN!
+Before we start, one **SERIOUS** THING!
+
+```
+Julian Assange
+```
+
+[The illegal charges against FreeSpeech Publisher Julian Assange must be dropped NOW](https://julian-assange.info/Translation-Sonneborn/circular_1-Assange.html)! Should you NOT KNOW Julian, PLEASE READ the [Julian Assange Introduction](https://julian-assange.info/) section,
+which is copied from [Wikipedia](https://wikipedia.org), the **FREE** Online **Encyclopedia**:
+
+```
+Julian Paul Assange (/əˈsɑːnʒ/; né Hawkins; born 3 July 1971) is an Australian editor, publisher and activist who founded WikiLeaks in 2006. WikiLeaks came to international attention in 2010 when it published a series of leaks provided by U.S. Army intelligence analyst Chelsea Manning. These leaks included the Baghdad airstrike Collateral Murder video (April 2010), the Afghanistan war logs (July 2010), the Iraq war logs (October 2010), and Cablegate (November 2010). After the 2010 leaks, the United States government launched a criminal investigation into WikiLeaks.
+```
+
+Please support Julian Assange's immediate RELEASE!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvj1Ih_5i7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Here it goes on with fun.
 
 Latest video! Langweilig ... Boring! Better see the others!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8tinD7O3JR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9m350W2ZFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qcmUGl2uEGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Don't feel bored! Take a towel with you. Always!* Visit first:
 
-- 🎼 [schnoddelbotz on SoundCloud](https://soundcloud.com/schnoddelbotz) mit Korg Kronos und Küng Flöten etwa so:
+- 🎼 Must VISIT! [schnoddelbotz aka Jan at Hacker dot CH on YouTube](https://www.youtube.com/channel/UCeh_alY3LWQQEUJ4PyqtE4g)
+- 🎼 ALSO [schnoddelbotz on SoundCloud](https://soundcloud.com/schnoddelbotz) mit Korg Kronos und Küng Flöten etwa so:
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1191715831&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/schnoddelbotz" title="schnoddelbotz" target="_blank" style="color: #cccccc; text-decoration: none;">schnoddelbotz</a> · <a href="https://soundcloud.com/schnoddelbotz/korg-da-funk-synth-garage-orientalische-sonate-helge-sauer-4" title="Korg Da Funk Synth Garage Orientalische Sonate Helge Sauer #4" target="_blank" style="color: #cccccc; text-decoration: none;">Korg Da Funk Synth Garage Orientalische Sonate Helge Sauer #4</a></div>
 
